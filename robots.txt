@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laidoff.com/sitemap.xml
